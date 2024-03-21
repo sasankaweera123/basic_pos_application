@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/03/21 11:51:54.565,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/03/21 11:51:54.644,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/03/21 11:52:59.739,C:\Users\Admin\Documents\GitHub\basic_pos_application\pos_applicationPCH1.h=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/03/21 11:52:59.755,C:\Users\Admin\Documents\GitHub\basic_pos_application\Unit1.h=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/03/21 11:52:59.755,C:\Users\Admin\Documents\GitHub\basic_pos_application\Unit1.dfm=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/03/21 11:52:59.755,C:\Users\Admin\Documents\GitHub\basic_pos_application\Unit1.cpp=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/03/21 11:52:59.770,C:\Users\Admin\Documents\GitHub\basic_pos_application\pos_application.cbproj=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/03/21 11:53:30.484,C:\Users\Admin\Documents\GitHub\basic_pos_application\basic_pos_application.h=C:\Users\Admin\Documents\GitHub\basic_pos_application\Unit1.h</Transaction>
+    <Transaction>2024/03/21 11:53:30.484,C:\Users\Admin\Documents\GitHub\basic_pos_application\basic_pos_application.dfm=C:\Users\Admin\Documents\GitHub\basic_pos_application\Unit1.dfm</Transaction>
+    <Transaction>2024/03/21 11:53:30.484,C:\Users\Admin\Documents\GitHub\basic_pos_application\basic_pos_application.cpp=C:\Users\Admin\Documents\GitHub\basic_pos_application\Unit1.cpp</Transaction>
+    <Transaction>2024/03/21 11:53:37.372,C:\Users\Admin\Documents\GitHub\basic_pos_application\pos_application.cbproj=C:\Users\Admin\Documents\GitHub\basic_pos_application\pos_application.cbproj</Transaction>
+    <Transaction>2024/03/21 14:01:42.489,C:\Users\Admin\Documents\GitHub\basic_pos_application\basic_pos_application_updated.cpp=C:\Users\Admin\Documents\GitHub\basic_pos_application\basic_pos_application.cpp</Transaction>
+    <Transaction>2024/03/21 14:01:42.489,C:\Users\Admin\Documents\GitHub\basic_pos_application\basic_pos_application_updated.dfm=C:\Users\Admin\Documents\GitHub\basic_pos_application\basic_pos_application.dfm</Transaction>
+    <Transaction>2024/03/21 14:01:42.489,C:\Users\Admin\Documents\GitHub\basic_pos_application\basic_pos_application_updated.h=C:\Users\Admin\Documents\GitHub\basic_pos_application\basic_pos_application.h</Transaction>
+  </Transactions>
+</BorlandProject>
