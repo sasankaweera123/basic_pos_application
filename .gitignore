@@ -31,5 +31,8 @@
 *.out
 *.app
 
-/pos_application.cbproj.local
-*.local
+Win32
+.idea
+__history
+__recovery
+pos_application.cbproj.local
