@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+/pos_application.cbproj.local
+*.local
